@@ -41,7 +41,7 @@ msg_success = "Exactly! The correlation is very weak though."
 test_mc(4, [msg_bad, msg_bad, msg_bad, msg_success])
 ```
 
---- type:BokehServerExercise lang:python xp:100 skills:1 key:a5ad109c04
+--- type:NormalExercise lang:python xp:100 skills:1 key:a5ad109c04
 ## Plot the movies yourself
 
 Do you remember the plot of the last exercise? Let's make an even cooler plot!
